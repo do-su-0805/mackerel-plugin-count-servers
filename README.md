@@ -15,3 +15,9 @@ Example.role1.poweroff  2   1552897222
 Example.role1.maintenance   2   1552897222
 Example.role1.standby   2   1552897222
 ```
+
+## Note
+
+- Saving tmp file at "/tmp/mackerel-plugin-count-servers.tmp".
+- Using `mkr` command to get information.
+- Perhaps, This script will remake written in Golang.
